@@ -1,0 +1,5 @@
+{
+  "firebase": "YOUR_FIREBASE_NAME",
+  "public": "build",
+  "rules": "config/security-rules.json"
+}
